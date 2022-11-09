@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2022
 
-lastupdated: "2022-09-21"
+lastupdated: "2022-11-09"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -101,13 +101,6 @@ If the root cause analysis determines the issue is a defect in the beta service 
 Third-party services are provided by vendors outside of {{site.data.keyword.IBM_notm}}. These services are provided by individual software entities, {{site.data.keyword.IBM_notm}} Business Partners, or independent software vendors (ISV).
 
 Support for third-party services is provided by the service provider. This includes third-party products that are deployed by using the {{site.data.keyword.terraform-provider_full_notm}}. If the root cause analysis determines that the issue is a defect in a third-party service, {{site.data.keyword.IBM_notm}} isn't required to provide a fix. However, {{site.data.keyword.IBM_notm}} shares analysis with the third-party service provider, if needed, and can work through Marketplace with the third-party service to help solve the issue.
-
-### Bitnami helm charts
-{: #s-bitnami}
-
-Products that are provided by Bitnami are available in the {{site.data.keyword.cloud_notm}} catalog, and you manage the deployment and configuration on your own compute. Support for this third-party service is provided by Bitnami. {{site.data.keyword.IBM_notm}} isn't required to provide a fix for defects in a third-party service. Any issues that require a support case are opened in the [Bitnami charts GitHub repo](https://github.com/bitnami/charts/issues){: external}.
-
-To view all available Bitnami products, go to the catalog, and select the **Third party** provider filter.
 
 
 ## Open source or community service
