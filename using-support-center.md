@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2022
 
-lastupdated: "2022-11-09"
+lastupdated: "2022-11-15"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -25,12 +25,13 @@ As a classic infrastructure user, you might be familiar with support tickets. Ti
 
 Three different types of support plan are offered. For more information, see [Basic, Advanced, and Premium Support plans](/docs/get-support?topic=get-support-support-plans). You can change your current support plan at any time by contacting a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
 
+{{site.data.keyword.IBM_notm}} periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to get feedback on recent experiences with customer support. The survey focuses on the support quality and the overall experience. {{site.data.keyword.IBM_notm}} management reviews the survey results to improve the support experience.
+{: note}
 
 ## Getting support
 {: #getting-support}
 
 To access the Support Center, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center** from the {{site.data.keyword.cloud_notm}} console menu bar.
-
 
 Review your product topics to get a quick overview of the {{site.data.keyword.Bluemix_notm}} documentation that offers common tasks based on what is provisioned on your account. You can search to view topics based on specific products. You can also view and search through Featured FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, create and manage support cases from the Support Center.
 
@@ -41,7 +42,7 @@ The following are the methods that you can find in the Contact support section i
 * If you have technical questions, there's a link to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 * You can also use the [Create a case](/unifiedsupport/cases/add){: external} page to submit a case.
 
-{{site.data.keyword.IBM_notm}} periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to get feedback on recent experiences with customer support. The survey focuses on the support quality and the overall experience. {{site.data.keyword.IBM_notm}} management reviews the survey results to improve the support experience.
+Users in the account need assigned access to create, update, search, or view cases. For more information, see [Assigning user access for working with support center](/docs/get-support?topic=get-support-access&interface=ui).
 {: note}
 
 ### Asking a question
