@@ -128,13 +128,6 @@
     "Why can't I see others Support Cases",
     "can't view all of the cases in the account"
   ],
-  "supportcenter-service": [
-    "can't find help information in the Support Center for my services",
-    "unable to find anything helpful in Support Center for my service",
-    "cant find the answer to my question in support center",
-    "can't find helpful information in the Support Center",
-    "cant find an answer to my issue in support center"
-  ],
   "open-support-case": [
     "how can I open a support case",
     "open a support case",
@@ -165,7 +158,6 @@
     "need help opening a case",
     "new case",
     "I need to open a case",
-    "how to i check the tickets",
     "I want to create ticket",
     "i would like to open the CASE",
     "how to create severity 1 case",
@@ -183,11 +175,7 @@
     "creating an issue",
     "create a support issue",
     "open an issue",
-    "urgent support",
-    "can we pay our invoices by check or wire",
-    "I need bank details so I can pay that way",
-    "how to change payment method to bank transfer",
-    "wire transfer"
+    "want to create request for support"
  ],
   "contactsupport": [
     "How do I contact support",
