@@ -31,7 +31,7 @@ toc:
             - ViewStatus.md
             - status_search.md
         - report-security.md
-        - /billing-usage/billing-usage-support
+        - include: ../billing-usage/support.md
 
     - navgroup:
         id: reference
