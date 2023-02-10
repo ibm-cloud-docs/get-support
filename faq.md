@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2019, 2022
+  years: 2023
 
-lastupdated: "2022-09-21"
+lastupdated: "2023-02-10"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -123,11 +123,11 @@ Some cloud-based {{site.data.keyword.IBM_notm}} products are not offered in {{si
 Support for third-party services is provided by the service provider.
 
 
-## Does {{site.data.keyword.Bluemix_notm}} provide support for resources available through the {{site.data.keyword.IBM_notm}} Academic Initiative?
+## Does {{site.data.keyword.Bluemix_notm}} provide support for resources available through the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads?
 {: #academic-ibm}
 {: faq}
 
-The [{{site.data.keyword.IBM_notm}} Academic Initiative](https://www.ibm.com/academic/home){: external} is an {{site.data.keyword.IBM_notm}} corporate program that provides access to the {{site.data.keyword.cloud_notm}} Platform for faculty, students, and researchers at accredited academic institutions. Acceptance decisions, length of participation, awarding of credits, and any possible extensions are made by the {{site.data.keyword.IBM_notm}} Academic Initiative Team and not {{site.data.keyword.cloud_notm}} Support. {{site.data.keyword.cloud_notm}} Support also does not provide technical support for accounts that are part of the {{site.data.keyword.IBM_notm}} Academic Initiative Program. For more information about the program, see the [{{site.data.keyword.IBM_notm}} Academic Initiative FAQ](https://www.ibm.com/academic/faqs/faqs){: external}.
+The [{{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads](https://www.ibm.com/academic/home){: external} is an {{site.data.keyword.IBM_notm}} corporate program that provides access to the {{site.data.keyword.cloud_notm}} Platform for faculty, students, and researchers at accredited academic institutions. Acceptance decisions, length of participation, awarding of credits, and any possible extensions are made by the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Team and not {{site.data.keyword.cloud_notm}} Support. {{site.data.keyword.cloud_notm}} Support also does not provide technical support for accounts that are part of the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Program. For more information about the program, see the [{{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads FAQ](https://www.ibm.com/academic/faqs/faqs){: external}.
 
 
 ## How do I ensure that users in my account get updates for a support case?
