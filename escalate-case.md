@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2023
 
-lastupdated: "2023-02-13"
+lastupdated: "2023-02-21"
 
 keywords: escalate, support case, case, ticket, case severity, severity, support case severity
 
@@ -21,7 +21,9 @@ You can use the escalation process to surface critical issues and voice your con
 
 To escalate a case, complete the following steps:
 
-1. Contact {{site.data.keyword.Bluemix_notm}} Support by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with a support agent tile.
+1. Contact {{site.data.keyword.Bluemix_notm}} Support by phone or chat:
+   * Pay-as-you-go or subscription accounts can contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
+   * Contact by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with a support agent tile.
 1. Provide your existing case number and a request to escalate the case.
 1. Provide the justification an escalation and explain the business impact of your problem or issue.
 

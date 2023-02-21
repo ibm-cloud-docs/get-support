@@ -4,7 +4,7 @@ copyright:
 
   years: 2019, 2023
 
-lastupdated: "2023-02-13"
+lastupdated: "2023-02-21"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -56,6 +56,7 @@ From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** i
 
 To contact support, you can use the following methods:
 * If you have a valid Pay-As-You-Go or Subscription account, you can click **Chat with IBM** to connect with a support engineer.
+* Pay-as-you-go or subscription accounts can also contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
 * Lite and Trial account support is limited to non-technical support issues that are related to account access and billing. Users with Lite or Trial accounts can view the [{{site.data.keyword.Bluemix_notm}} documentation](/docs/get-support?topic=get-support-using-avatar), Chat with Watson, and use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 
 
@@ -67,7 +68,9 @@ As an {{site.data.keyword.cloud_notm}} customer, you can escalate support cases 
 
 To escalate a case, complete the following steps:
 
-1. Contact {{site.data.keyword.Bluemix_notm}} Support by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with a support agent tile.
+1. Contact {{site.data.keyword.Bluemix_notm}} Support by phone or chat:
+   * Pay-as-you-go or subscription accounts can contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
+   * Contact by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with a support agent tile.
 1. Provide your existing case number and a request to escalate the case.
 1. Provide the justification an escalation and explain the business impact of your problem or issue.
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2023
 
-lastupdated: "2023-02-13"
+lastupdated: "2023-02-21"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -38,6 +38,7 @@ Review your product topics to get a quick overview of the {{site.data.keyword.Bl
 The following are the methods that you can find in the Contact support section if you need help:
 
 * By chat from the [Support Center](/unifiedsupport/supportcenter){: external}.
+* Pay-as-you-go or subscription accounts can contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
 * If you have technical questions, there's a link to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 * You can also use the [Create a case](/unifiedsupport/cases/add){: external} page to submit a case.
 
