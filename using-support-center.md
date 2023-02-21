@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2022
+  years: 2015, 2023
 
-lastupdated: "2022-11-15"
+lastupdated: "2023-02-13"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -38,7 +38,6 @@ Review your product topics to get a quick overview of the {{site.data.keyword.Bl
 The following are the methods that you can find in the Contact support section if you need help:
 
 * By chat from the [Support Center](/unifiedsupport/supportcenter){: external}.
-* Pay-as-you-go or subscription accounts can also contact support by phone: +1-866-403-7638.
 * If you have technical questions, there's a link to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 * You can also use the [Create a case](/unifiedsupport/cases/add){: external} page to submit a case.
 

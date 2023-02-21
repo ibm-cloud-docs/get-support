@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2023
+  years: 2019, 2023
 
-lastupdated: "2023-02-10"
+lastupdated: "2023-02-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -56,7 +56,6 @@ From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** i
 
 To contact support, you can use the following methods:
 * If you have a valid Pay-As-You-Go or Subscription account, you can click **Chat with IBM** to connect with a support engineer.
-* Pay-as-you-go or subscription accounts can also contact support by phone: +1-866-403-7638.
 * Lite and Trial account support is limited to non-technical support issues that are related to account access and billing. Users with Lite or Trial accounts can view the [{{site.data.keyword.Bluemix_notm}} documentation](/docs/get-support?topic=get-support-using-avatar), Chat with Watson, and use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 
 
@@ -68,9 +67,7 @@ As an {{site.data.keyword.cloud_notm}} customer, you can escalate support cases 
 
 To escalate a case, complete the following steps:
 
-1. Contact {{site.data.keyword.Bluemix_notm}} Support by phone or chat:
-   * Contact by phone at +1-866-403-7638 for the US and Canada.
-   * Contact by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with a support agent tile.
+1. Contact {{site.data.keyword.Bluemix_notm}} Support by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with a support agent tile.
 1. Provide your existing case number and a request to escalate the case.
 1. Provide the justification an escalation and explain the business impact of your problem or issue.
 
@@ -105,13 +102,13 @@ To view your support costs, you need an access policy with the Administrator rol
 If you want to upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative. For more information on the different support plans, see [Basic, Advanced, and Premium Support plans](/docs/get-support?topic=get-support-support-plans).
 
 
-## Why can't I see my support cases? 
+## Why can't I see my support cases?
 {: #view-support-cases}
 {: faq}
 
-To access your support cases, from the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**, and click **Manage cases**. If you're unable to view your cases, try clicking **View classic infrastructure cases**.
+To access your support cases, from the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**, and click **Manage cases**. If you're unable to view your cases, try clicking **View classic infrastructure cases**.
 
-If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](/docs/account?topic=account-migrated_permissions). 
+If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](/docs/account?topic=account-migrated_permissions).
 
 
 ## How do I get support for non-{{site.data.keyword.Bluemix_notm}} products?
