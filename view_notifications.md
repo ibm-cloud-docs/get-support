@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2019, 2022
+  years: 2019, 2023
 
-lastupdated: "2022-04-01"
+lastupdated: "2023-03-28"
 
 keywords: notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon 
 
@@ -17,7 +17,7 @@ subcollection: get-support
 # Viewing notifications
 {: #viewing-notifications}
 
-The {{site.data.keyword.Bluemix_notm}} [Notifications page](/notifications){: external} is a centralized place to view and control all incidents, maintenance, announcements, and security bulletins. Events that are displayed on the Notifications page are ones that specifically impact users based on the preferences that the account owner or administrator sets.
+The {{site.data.keyword.Bluemix_notm}} [Notifications page](/notifications){: external} is a centralized place to view and control all incidents, maintenance, announcements, and security bulletins. Events that are displayed on the Notifications page are ones that specifically impact users based on the preferences that the account owner or administrator sets. You can also view events from the past year that are now completed on the [History page](/status/history){: external}.
 {: shortdesc}
 
 Pages specific to the {{site.data.keyword.Bluemix_notm}} classic infrastructure are deprecated. The new Notifications page hosts all classic infrastructure notifications. You can view classic infrastructure history for planned and unplanned incidents and announcements on the Notifications page. 
