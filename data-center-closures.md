@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2023
 
-lastupdated: "2023-03-21"
+lastupdated: "2023-03-28"
 
 keywords: data centers, data center support, datacenter, data center closure
 
@@ -38,7 +38,6 @@ The following table describes important dates that you need to be aware of if yo
 
 | Date            | Data Center Migration Milestone |
 |-----------------|---------------------------------|
-| 29 March 2023   | Help available for customers to migrate to a new data center. |
 | 03 April 2023   | Official announcement for all impacted customers in the following data centers: DAL05, SJC01, and WDC01 |
 | 03 April 2023   | Stop provisioning for new customers in the following data centers: DAL05, SJC01, and WDC01 |
 | 14 August 2023  | Exisiting customers of DAL05, SJC01, and WDC01 will not be able to place new orders. |
