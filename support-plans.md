@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2023
 
-lastupdated: "2023-02-03"
+lastupdated: "2023-04-06"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
@@ -92,7 +92,7 @@ Basic Support is provided for non-production environments or workloads that don'
 ## Support level and enterprises
 {: #support_level_enterprise}
 
-The level of support that is assigned to an [{{site.data.keyword.Bluemix_notm}} enterprise](/docs/account?topic=account-what-is-enterprise) defaults to the highest support plan within the enterprise. All child accounts within the enterprise also default to the highest support plan.
+The level of support that is assigned to an [{{site.data.keyword.Bluemix_notm}} enterprise](/docs/secure-enterprise?topic=secure-enterprise-what-is-enterprise) defaults to the highest support plan within the enterprise. All child accounts within the enterprise also default to the highest support plan.
 
 ## Technical support team
 {: #tech_support_team}
