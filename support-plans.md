@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2023
 
-lastupdated: "2023-04-06"
+lastupdated: "2023-04-17"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
