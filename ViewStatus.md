@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2023
 
-lastupdated: "2023-03-23"
+lastupdated: "2023-04-20"
 
 keywords: cloud status, view cloud status, planned maintenance, RSS feed, unfied notifications, iaas notifications, classic infrastructure notifications, incident reports, MZR, private MZR
 
@@ -55,21 +55,15 @@ To view the status of a dedicated MZR, complete the following steps:
 
 1. In the {{site.data.keyword.cloud_notm}} console, click the **Notifications** icon ![Notifications icon "Notifications"](../icons/Notification.svg) in the menu bar.
 1. Click **View cloud status**.
-1. Select from the services that are available within the dedicated MZR to view the status of the MZR in the **Private location status** section. To view planned maintenance, security bulletins and announcements that are related only to your dedicated MZR, use the location filter on the appropriate page as shown in the following screen capture:
+1. Select from the services that are available within the dedicated MZR to view the status of the MZR in the **Private location status** section. To view planned maintenance, security bulletins and announcements that are related only to your dedicated MZR, use the location filter on the appropriate page.
 
-![Example of the location filter](images/location_filter.png "Example of a location filter that is being used on the Announcements page"){: caption="Figure 1. An example of the location filter that is being used on the Announcements page" caption-side="bottom"}
+If an incident occurs that affects the dedicated MZR, you can see the following status on the {{site.data.keyword.cloud_notm}} Status page, which shows you the continent where your private MZR is located, and the status of your private region:
 
-If there's any active incident that affects the dedicated MZR, you can see the following status on the {{site.data.keyword.cloud_notm}} Status page:
+![Example of an active incident](images/status_event.png "Example of the Status page when there is an active incident that affects the dedicated MZR."){: caption="Figure 1. An example of the Status page when there is an active incident that affects the dedicated MZR" caption-side="bottom"}
 
-![Example of an active incident](images/status_incident.png "Example of the Status page when there is an active incident that affects the dedicated MZR."){: caption="Figure 2. An example of the Status page when there is an active incident that affects the dedicated MZR" caption-side="bottom"}
+If no active incident occurs that affects the dedicated MZR, you can see the following status on the {{site.data.keyword.cloud_notm}} Status page:
 
-If there is no active incident that affects the dedicated MZR, you can see the following status on the {{site.data.keyword.cloud_notm}} Status page:
-
-![Example of no active incident](images/status_no_incident.png "Example of the Status page when there is no active incident that affects the dedicated MZR."){: caption="Figure 3. An example of the Status page when there is no incident that affects the dedicated MZR" caption-side="bottom"}
-
-If you select a maintenance item from the **Planned maintenance** page, a security bulletin item from the **Security bulletins** page, or an announcement item from the **Announcements** page, you can expand them to find the following information about each item:
-
-![Example of a maintenance, security bulletin or announcement item side panel](images/status_side_panel.png "Example of a side panel that you can see when you expand an item on the Planned maintenance, Security bulletins, or Announcements page."){: caption="Figure 4. An example of a side panel that you can see when you expand an item on the Planned maintenance, Security bulletins, or Announcements page" caption-side="bottom"}
+![Example of no active incident](images/status_no_event.png "Example of the Status page when there is no active incident that affects the dedicated MZR."){: caption="Figure 2. An example of the Status page when there is no incident that affects the dedicated MZR" caption-side="bottom"}
 
 ## Subscribing to an RSS feed
 {: #subscribing-rss-feed}
