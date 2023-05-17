@@ -17,23 +17,23 @@ subcollection: get-support
 # Managing your support cases
 {: #managing-support-cases}
 
-Each support case is assigned a unique number and severity level based on the details in the case description. You can use the case number to track the progress of your reported issue, leave feedback, or update the support case. Updates and feedback are recorded in the case notes, which you can find by selecting the specific support case. You can also add users in your account to a list so they can receive alerts about a case. 
+Each support case is assigned a unique number and severity level based on the details in the case description. You can use the case number to track the progress of your reported issue, leave feedback, or update the support case. Updates and feedback are recorded in the case notes, which you can find by selecting the specific support case. You can also add users in your account to a watchlist so they can receive alerts about a case. For more information, see [Updating your support case's watchlist](/docs/get-support?topic=get-support-contact-watchlist).
 {: shortdesc}
 
-To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases). 
+To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases).
 
-If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**. 
+If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**.
 {: tip}
 
 
-## Searching for support cases 
+## Searching for support cases
 {: #search-options}
 {: ui}
 
-From the Manage cases page, you can search for all of your support cases by using query parameters in the search bar. You can use all parameters together and enter them in any order.
+From the Manage cases page, you can filter by case status and search for all of your support cases by using query parameters in the search bar. All parameters can be used together and entered in any order. You can also filter cases by selecting **All cases**, **My cases**, and **Watchlist cases**.
 
-See the following table for details about the search parameters: 
- 
+See the following table for details about the search parameters:
+
 | Parameter | Option | Rule |
 |-----------|--------|------|
 | `number` | target case number | This parameter can't be used with other parameters. When the `number` parameter is used, all of the other parameters and options ignored. The `number` parameter doesn't autofill the search. You must use the whole case number to start the search. |
@@ -43,18 +43,18 @@ See the following table for details about the search parameters:
 | `pageSize`  | 10  \n 25  \n 50  \n 100  | The size of that page to be viewed. The page size refers to the number of results that you want to load. |
 {: caption="Table 1. Search query parameters and options" caption-side="top"}
 
-If you enter a term without a parameter, the search results are shown for the support case number and the case subject. 
+If you enter a term without a parameter, the search results are shown for the support case number and the case subject.
 {: note}
 
 ### Query and URL examples
 {: #search-query-examples}
 {: ui}
 
-You can enter search queries in the search bar by stating a parameter and option separated by a colon (:) or you can use parameters in a URL to go directly to a specific case or group of cases on the Manage cases page. 
+You can enter search queries in the search bar by stating a parameter and option separated by a colon (:) or you can use parameters in a URL to go directly to a specific case or group of cases on the Manage cases page.
 
-To use parameters in the URL, add a question mark (?) to the end of the URL. Then, set your parameter equal to the option you select. You can also separate additional parameters with an ampersand (&). 
+To use parameters in the URL, add a question mark (?) to the end of the URL. Then, set your parameter equal to the option you select. You can also separate additional parameters with an ampersand (&).
 
-To search for a case by keyword, you can enter the word in the search bar without a parameter. To search for a keyword with the URL, use `search` as a parameter and set it equal to your keyword, for example, `search=server`. 
+To search for a case by keyword, you can enter the word in the search bar without a parameter. To search for a keyword with the URL, use `search` as a parameter and set it equal to your keyword, for example, `search=server`.
 {: tip}
 
 #### Searching by case number
@@ -71,7 +71,7 @@ URL
 #### Searching with multiple parameters
 {: #search-mult-parameters}
 
-You might want to search for both new and in progress support cases, limit the results to 25 per page, and displayed by severity. You also know that the case that you're looking for isn't going to be within the first couple of pages, so you want to start on page 5. Enter the following search query: 
+You might want to search for both new and in progress support cases, limit the results to 25 per page, and displayed by severity. You also know that the case that you're looking for isn't going to be within the first couple of pages, so you want to start on page 5. Enter the following search query:
 
 Query
 :   `status:new,inProgress page:5 pageSize:25 sort:severity`
@@ -82,7 +82,7 @@ URL
 ### Searching for resolved cases
 {: #search-resolved}
 
-Enter the following query to view all of the resolved cases based on when they were last updated: 
+Enter the following query to view all of the resolved cases based on when they were last updated:
 
 Query
 :   `sort:~updatedAT status:resolved`
@@ -367,5 +367,5 @@ When your response to an update in your support case is needed, the status is di
 | Waiting on client   | The support engineer has left an inquiry on the case that needs the user's response. |
 | Resolution provided | The support engineer provided a resolution that the user needs to perform. |
 | Resolved            | The support case is considered finished and ready to be closed. |
-| Closed              | Case is closed by a support engineer and can't be reopened. | 
+| Closed              | Case is closed by a support engineer and can't be reopened. |
 {: caption="Table 2. Support case status types" caption-side="top"}
