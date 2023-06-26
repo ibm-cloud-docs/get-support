@@ -1,6 +1,6 @@
 {
     "title": "Getting support docs",
-    "lastupdated": "2022-09-21",
+    "lastupdated": "2023-06-26",
     "introduction": "Use the docs and API and SDK reference to learn about support plan options, how to use the Support Center for self-guided resolutions to your issues, and how to open and manage support cases when needed.",
     "section_devtools": {
       "api": "/apidocs/support-center/case-management"
@@ -32,19 +32,19 @@
       "view_more": "/docs/overview?topic=overview-whatsnew",
       "tiles": [
         {
+          "date": "10 April 2023",
+          "title": "View email notification history",
+          "description": "You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of IBM Cloud email history, which can help save you time troubleshooting any delivery issues without needing to contact IBM support."
+        },
+        {
           "date": "22 September 2022",
           "title": "Getting help in the console",
-          "description": "You can now find the documentation and Support Center help options from a single menu item in the IBM Cloud console menu bar. Check out the new Help option from the menu bar that now includes your links for Docs, the Support Center, and available guided tours."
+          "description": "You can now find the documentation and Support Center help options from a single menu item in the IBM Cloud console menu bar. Check out the new Help option from the menu bar that now includes your links for Docs, the Support Center, a form to give us feedback, and available guided tours."
         },
         {
           "date": "28 February 2022",
           "title": "365 days of status history is now available",
           "description": "You can now easily view events that were completed in the past year on the IBM Cloud Status page. Previously, you could view only the history of completed events from the past month."
-        },
-        {
-          "date": "20 September 2021",
-          "title": "Checking the root cause of an incident",
-          "description": "You can now visit the IBM Cloud Incident reports page to review technical details of major outages for IBM Cloud services. You can find Customer Incident Reports (CIR) on the page, which provide Root Cause Analysis (RCA) for past major outages. You are able to view and download the incident reports from the page about any events that affect IBM Cloud availability. These reports are in PDF file formats and available for 5 years starting from the date when the event occurred."
         }
       ]
     }
