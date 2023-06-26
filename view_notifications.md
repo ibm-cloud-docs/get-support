@@ -4,9 +4,9 @@ copyright:
 
   years: 2019, 2023
 
-lastupdated: "2023-03-28"
+lastupdated: "2023-06-26"
 
-keywords: notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon 
+keywords: notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history 
 
 subcollection: get-support
 
@@ -63,6 +63,21 @@ Users already present in {{site.data.keyword.Bluemix_notm}} receives an email an
 The invitations expire after 30 days. New users to {{site.data.keyword.cloud_notm}} can only accept an invitation by using the invitation link that they received through email.
 {: note}
 
+## Checking the delivery status of email notifications and viewing email history
+{: #view-email-history}
+
+On the [Communication history page](/messaging){: external}, you can check the status of all email notifications that are sent to you, and you can verify whether the emails are delivered successfully. You can also view the last 90 days of {{site.data.keyword.cloud_notm}} email history, which can help you save time by troubleshooting any delivery issues without you having to contact {{site.data.keyword.IBM_notm}} support.  
+
+To view your email notification history and check the delivery status of an {{site.data.keyword.cloud_notm}} email, complete the following steps:
+
+1. In the {{site.data.keyword.cloud_notm}} console, click the **Notifications** icon ![Notifications icon "Notifications"](../icons/Notification.svg) in the menu bar.
+1. Click **Actions > View communication history**.
+1. In the **Subject** field, enter any keyword that applies to the email that you want to check. 
+1. Specify the date range of the email notification, and click **Submit**. 
+1. Filter the email notifications by the delivery status:
+   * Select **Delivered** to find emails that were successfully delivered to you. 
+   * Select **Not delivered** to find emails that were sent to you, but weren't delivered successfully. 
+   * Select **All** to find both delivered and not delivered emails with the same subject.
 
 ## Getting advanced notice for disruptive maintenance
 {: #disruptive-maintenance}
