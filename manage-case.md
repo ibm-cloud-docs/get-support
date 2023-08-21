@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2022
+  years: 2015, 2023
 
-lastupdated: "2022-05-16"
+lastupdated: "2023-08-21"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -364,7 +364,7 @@ When your response to an update in your support case is needed, the status is di
 |---------------------|------------|
 | New                 | A created case not yet viewed by a support engineer. |
 | In progress         | A case that is under review. |
-| Waiting on client   | The support engineer has left an inquiry on the case that needs the user's response. |
+| Waiting on client   | The support engineer has submitted an inquiry on the case that needs the user's response. |
 | Resolution provided | The support engineer provided a resolution that the user needs to perform. |
 | Resolved            | The support case is considered finished and ready to be closed. |
 | Closed              | Case is closed by a support engineer and can't be reopened. |
