@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2023
 
-lastupdated: "2023-05-10"
+lastupdated: "2023-10-20"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
@@ -51,7 +51,7 @@ Premium Support is for mission-critical environments that have a strategic depen
 * **Platform and infrastructure maintenance.** Your technical account manager alerts you about maintenance events or service end of life that might impact your environment.
 * **Event management.** The technical account manager can arrange architectural support on scaling and high availability for critical customer events such as maintenance, promotions, or holiday events.
 * **Seminars and events.** Your technical account manager ensures that your teams are engaged in IBM events and conferences.
-* **Quarterly business reviews.** Your technical account manager provides periodic business reviews of cloud usage, support case activity, escalations, hardware age, upcoming planned maintenance, upcoming EOL/EOS dates and how to plan for those, and reviews of your users and permissions.
+* **Quarterly business reviews.** Your technical account manager provides periodic business reviews of cloud usage, support case activity, escalations, upcoming planned maintenance, upcoming EOL/EOS dates and how to plan for those, and reviews of your users and permissions.
 
 ### Premium support for events
 {: #premium-support-events}
