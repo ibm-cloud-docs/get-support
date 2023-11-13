@@ -4,7 +4,7 @@ copyright:
 
   years: 2019, 2023
 
-lastupdated: "2023-02-21"
+lastupdated: "2023-11-13"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -93,7 +93,7 @@ You can change which email notifications you receive for planned events, unplann
 
 If you have Advanced or Premium support, you can track your monthly support costs. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Billing and usage**, and select **Support costs**. Each support plan has a minimum monthly support price for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost.
 
-Charges for support of third-party services are not included in the Advanced or Premium Support charge calculations. These non-IBM programs are licensed directly by their providers.
+Charges for support of third-party services are not included in the Advanced or Premium support charge calculations. These non-IBM programs are licensed directly by their providers.
 
 To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [IAM access](/docs/account?topic=account-userroles).
 
@@ -102,23 +102,23 @@ To view your support costs, you need an access policy with the Administrator rol
 {: #support-plan}
 {: faq}
 
-If you want to upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative. For more information on the different support plans, see [Basic, Advanced, and Premium Support plans](/docs/get-support?topic=get-support-support-plans).
+If you want to upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative. For more information on the different support plans, see [Basic, Advanced, and Premium support plans](/docs/get-support?topic=get-support-support-plans).
 
 
-## Why can't I see my support cases?
+## Why can't I see my support cases? 
 {: #view-support-cases}
 {: faq}
 
-To access your support cases, from the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**, and click **Manage cases**. If you're unable to view your cases, try clicking **View classic infrastructure cases**.
+To access your support cases, from the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**, and click **Manage cases**. If you're unable to view your cases, try clicking **View classic infrastructure cases**.
 
-If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](/docs/account?topic=account-migrated_permissions).
+If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](/docs/account?topic=account-migrated_permissions). 
 
 
 ## How do I get support for non-{{site.data.keyword.Bluemix_notm}} products?
 {: #on-cloud-cases}
 {: faq}
 
-Some cloud-based {{site.data.keyword.IBM_notm}} products are not offered in {{site.data.keyword.Bluemix_notm}}. These products, such as [Aspera on Cloud](https://www.ibm.com/cloud/aspera), are offered by {{site.data.keyword.IBM_notm}} but aren't supported by the {{site.data.keyword.Bluemix_notm}} platform. For support for these products, go to [{{site.data.keyword.IBM_notm}} Support](https://www.ibm.com/support/home/).
+Some cloud-based {{site.data.keyword.IBM_notm}} products are not offered in {{site.data.keyword.Bluemix_notm}}. These products, such as [Aspera on Cloud](https://www.ibm.com/cloud/aspera), are offered by {{site.data.keyword.IBM_notm}} but aren't supported by the {{site.data.keyword.Bluemix_notm}} platform. For support for these products, go to [{{site.data.keyword.IBM_notm}} support](https://www.ibm.com/support/home/).
 
 Support for third-party services is provided by the service provider.
 

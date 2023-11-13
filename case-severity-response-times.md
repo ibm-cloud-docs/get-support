@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2021
+  years: 2015, 2023
 
-lastupdated: "2021-09-13"
+lastupdated: "2023-11-13"
 
 keywords: case severity, severity, support case severity
 
@@ -17,7 +17,7 @@ subcollection: get-support
 # Case severity and initial response times
 {: #support-case-severity}
 
-How quickly your support cases are addressed depends on the assigned severity. You assign the severity of the issue when you open the case. With your agreement, the support team adjusts the assigned severity if an incorrect severity level is selected. For more information about Support plans, see [Basic, Advanced, and Premium Support plans](/docs/get-support?topic=get-support-support-plans).
+How quickly your support cases are addressed depends on the assigned severity. You assign the severity of the issue when you open the case. With your agreement, the support team adjusts the assigned severity if an incorrect severity level is selected. For more information about support plans, see [Basic, Advanced, and Premium support plans](/docs/get-support?topic=get-support-support-plans).
 
 The following table lists some common examples of support issues, suggested severity levels, and the initial response time objectives. The initial response time objectives are used to describe IBM goals only, and don't represent a performance guarantee.
 
@@ -36,17 +36,17 @@ Initial response Service Level Objectives (SLO) do not apply to any billing, inv
 {: tab-title="Severity Level Definition"}
 {: tab-group="case-severity"}
 
-| Severity | Premium Support      | Advanced Support | Basic Support                       |
-|----------------|----------------------|------------------|-------------------------------------|
-| 4     | Within 4 hours       | Within 8 hours   | No SLO, can't open severity 4 cases |
-| 3     | Within 2 hours       | Within 4 hours   | No SLO, can't open severity 3 cases |
-| 2     | Within 1 hour        | Within 2 hours   | No SLO, can't open severity 2 cases |
-| 1     | Less than 15 minutes | Within 1 hour    | No SLO, can't open severity 1 cases |
+| Severity | Premium              | Advanced         | Basic                               |
+|----------|----------------------|------------------|-------------------------------------|
+| 4        | Within 4 hours       | Within 8 hours   | No SLO, can't open severity 4 cases |
+| 3        | Within 2 hours       | Within 4 hours   | No SLO, can't open severity 3 cases |
+| 2        | Within 1 hour        | Within 2 hours   | No SLO, can't open severity 2 cases |
+| 1        | Less than 15 minutes | Within 1 hour    | No SLO, can't open severity 1 cases |
 {: class="simple-tab-table"}
 {: caption="Table 2. Support plan initial response time objectives" caption-side="top"}
 {: #caseseverity2}
 {: tab-title="Initial Response Time Objectives"}
 {: tab-group="case-severity"}
 
-We work with you 24 hours a day and seven days a week to resolve Severity 1 problems if you have a technical resource available to work during those hours. You must reasonably assist with any problem diagnosis and resolution. 
+We work with you 24 hours a day and seven days a week to resolve Severity 1 problems if you have a technical resource available to work during those hours. You must reasonably assist with any problem diagnosis and resolution.
 {: note}

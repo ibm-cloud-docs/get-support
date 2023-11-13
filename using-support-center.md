@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2023
 
-lastupdated: "2023-02-21"
+lastupdated: "2023-11-13"
 
 keywords: support, support case, premium support, advanced support, basic support, support page, help
 
@@ -23,7 +23,7 @@ If you experience problems with {{site.data.keyword.Bluemix}}, you have several 
 As a classic infrastructure user, you might be familiar with support tickets. Tickets are now called cases in {{site.data.keyword.Bluemix_notm}}.
 {: note}
 
-Three different types of support plan are offered. For more information, see [Basic, Advanced, and Premium Support plans](/docs/get-support?topic=get-support-support-plans). You can change your current support plan at any time by contacting a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
+Three different types of support plan are offered. For more information, see [Basic, Advanced, and Premium support plans](/docs/get-support?topic=get-support-support-plans). You can change your current support plan at any time by contacting a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
 
 {{site.data.keyword.IBM_notm}} periodically sends surveys to {{site.data.keyword.Bluemix_notm}} customers to get feedback on recent experiences with customer support. The survey focuses on the support quality and the overall experience. {{site.data.keyword.IBM_notm}} management reviews the survey results to improve the support experience.
 {: note}
