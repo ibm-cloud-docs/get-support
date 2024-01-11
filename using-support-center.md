@@ -69,7 +69,7 @@ European Union (EU) support is available to customers who choose to enable the E
 
 You can specify that you want EU support for your account if the following criteria are true:
 
-* The EU Supported setting is enabled for your account by the master user or account owner. For more information, see [Enabling the EU Supported setting](/docs/account?topic=account-eu-hipaa-supported#bill_eusupported).
+* The EU Supported setting is enabled for your account by the master user or account owner. For more information, see [Enabling the EU Supported setting](/docs/account?topic=account-eu-supported).
 * Your resources are in the appropriate European data center. For more information, see [Data centers](/docs/overview?topic=overview-locations#data-centers).
 * You select the EU supported case level when you open the case.
 
