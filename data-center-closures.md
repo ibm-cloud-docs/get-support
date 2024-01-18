@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2023
+  years: 2020, 2024
 
-lastupdated: "2023-03-28"
+lastupdated: "2024-01-18"
 
 keywords: data centers, data center support, datacenter, data center closure
 
@@ -14,7 +14,7 @@ subcollection: get-support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Data center consolidations
+# Data center migrations
 {: #dc-closure}
 
 As part of the data center modernization strategy for {{site.data.keyword.cloud}}, several data centers are scheduled to consolidate.
@@ -28,9 +28,9 @@ The following table shows the locations with the associated data centers that ar
 
 | Location       | Data Center to Close |  Recommended Data Centers  | Migration Deadline |
 |----------------|----------------------|----------------------------|--------------------|
-| Dallas         | DAL05                | DAL10, DAL12, DAL13        | 04 April 2024 |
-| San Jose       | SJC01                | SJC03, SJC04 or \n DAL10, DAL12, DAL13 | 04 April 2024 |
-| Washington DC | WDC01                | WDC04, WDC06, WDC07        | 04 April 2024 |
+| Dallas         | DAL05                | DAL10, DAL12, DAL13        | 4 April 2024 |
+| San Jose       | SJC01                | SJC03, SJC04 or \n DAL10, DAL12, DAL13 | 4 April 2024 |
+| Washington DC | WDC01                | WDC04, WDC06, WDC07        | 4 April 2024 |
 {: caption="Table 1. Data centers or PODs that are closing in 2023" caption-side="top"}
 
 
