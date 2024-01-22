@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2023
+  years: 2015, 2024
 
-lastupdated: "2023-08-21"
+lastupdated: "2024-01-22"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -95,7 +95,7 @@ URL
 {: #viewing-case-api}
 {: api}
 
-You can programmatically view a support case by using the API as shown in the following sample request. For more information, see the [Case Management API](/apidocs/case-management#casemanagement-createcase){: external}.
+You can programmatically view a support case by using the API as shown in the following sample request. For more information, see the [Case Management API](/apidocs/case-management#createcase){: external}.
 
 To view a case, see the following samples:
 
@@ -190,7 +190,7 @@ fmt.Println(string(b))
 {: #updating-case-api}
 {: api}
 
-The following sample request shows how to programmatically update a support case. For more information, see the [Case Management API](/apidocs/case-management#casemanagement-createcase){: external}.
+The following sample request shows how to programmatically update a support case. For more information, see the [Case Management API](/apidocs/case-management#createcase){: external}.
 
 ```curl
 curl -X PUT '/case-management/v1/cases/{case_number}/status' -H 'Authorization: TOKEN' -d '{
@@ -287,7 +287,7 @@ fmt.Println(string(b))
 {: #comment-case-api}
 {: api}
 
-The following sample request shows how to programmatically add a comment to a support case. For more information, see the [Case Management API](/apidocs/case-management#casemanagement-createcase){: external}.
+The following sample request shows how to programmatically add a comment to a support case. For more information, see the [Case Management API](/apidocs/case-management#createcase){: external}.
 
 ```curl
 curl -X PUT '/case-management/v1/cases/{case_number}/comments' -H 'Authorization: TOKEN' -d '{
