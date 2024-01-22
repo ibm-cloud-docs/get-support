@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2022
+  years: 2015, 2024
 
-lastupdated: "2022-09-21"
+lastupdated: "2024-01-22"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -59,7 +59,7 @@ After your support case is created, you can follow its progress on the [Manage c
 {: #create-case-api}
 {: api}
 
-You can programmatically open a support case by calling the Case Management API as shown in the following sample requests. For more information about the API, see [Case Management](/apidocs/case-management#casemanagement-createcase){: external}.
+You can programmatically open a support case by calling the Case Management API as shown in the following sample requests. For more information about the API, see [Case Management](/apidocs/case-management#createcase){: external}.
 
 ```curl
 curl --location --request POST 'support-center.cloud.ibm.com/case-management/v1/cases' --header 'Content-Type: application/json' --header 'Content-Type: text/plain' --data-raw '{ "type": "technical",
