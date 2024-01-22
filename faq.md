@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2019, 2023
+  years: 2019, 2024
 
-lastupdated: "2023-11-13"
+lastupdated: "2024-01-22"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -118,7 +118,7 @@ If you still can't view them, you might not have the required permission. Ask yo
 {: #on-cloud-cases}
 {: faq}
 
-Some cloud-based {{site.data.keyword.IBM_notm}} products are not offered in {{site.data.keyword.Bluemix_notm}}. These products, such as [Aspera on Cloud](https://www.ibm.com/cloud/aspera), are offered by {{site.data.keyword.IBM_notm}} but aren't supported by the {{site.data.keyword.Bluemix_notm}} platform. For support for these products, go to [{{site.data.keyword.IBM_notm}} support](https://www.ibm.com/support/home/).
+Some cloud-based {{site.data.keyword.IBM_notm}} products are not offered in {{site.data.keyword.Bluemix_notm}}. These products, such as [Aspera on Cloud](https://www.ibm.com/products/aspera){: external}, are offered by {{site.data.keyword.IBM_notm}} but aren't supported by the {{site.data.keyword.Bluemix_notm}} platform. For support for these products, go to [{{site.data.keyword.IBM_notm}} support](https://www.ibm.com/mysupport){: external}.
 
 Support for third-party services is provided by the service provider.
 
