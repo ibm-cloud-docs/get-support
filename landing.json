@@ -1,6 +1,6 @@
 {
     "title": "Getting support docs",
-    "lastupdated": "2023-06-26",
+    "lastupdated": "2024-01-22",
     "introduction": "Use the docs and API and SDK reference to learn about support plan options, how to use the Support Center for self-guided resolutions to your issues, and how to open and manage support cases when needed.",
     "section_devtools": {
       "api": "/apidocs/support-center/case-management"
@@ -24,9 +24,9 @@
     ],
     "section_learn": {
       "developer": "https://developer.ibm.com/depmodels/cloud/",
-      "architecture": "https://www.ibm.com/cloud/architecture",
+      "architecture": "https://www.ibm.com/architectures/hybrid",
       "training": "https://www.ibm.com/training/cloud",
-      "community": "https://community.ibm.com/community/user/publiccloud/home"
+      "community": "https://community.ibm.com/community/user/cloud/home"
     },
     "section_updates": {
       "view_more": "/docs/overview?topic=overview-whatsnew",
