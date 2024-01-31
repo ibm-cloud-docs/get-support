@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2022
+  years: 2015, 2024
 
-lastupdated: "2022-10-04"
+lastupdated: "2024-01-29"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -29,85 +29,6 @@ When you receive an error message from {{site.data.keyword.Bluemix}}, you can us
 For instructions to fix this problem, see the [Why do I encounter console pages that don't load?](/docs/account?topic=account-ts_err) troubleshooting topic.
 
 
-## BXNUI0004E
-{: #bxnui0004e}
-
-**Message**: The '{0}' app wasn't deleted because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0005E
-{: #bxnui0005e}
-
-**Message**: The '{0}' app wasn't created because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0006E
-{: #bxnui0006e}
-
-**Message**: The '{0}' app didn't stop because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0008E
-{: #bxnui0008e}
-
-**Message**: The '{0}' app details weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0009E
-{: #bxnui0009e}
-
-**Message**: The application starters weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0010E
-{: #bxnui0010e}
-
-**Message**: The '{0}' starter for the '{1}' app wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0011E
-{: #bxnui0011e}
-
-**Message**: The '{0}' starter wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0013E
-{: #bxnui0013e}
-
-**Message**: The '{0}' service instance wasn't created because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0014E
-{: #bxnui0014e}
-
-**Message**: The settings for the '{0}' service weren't updated because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0015E
-{: #bxnui0015e}
-
-**Message**: Service offerings weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
 
 ## BXNUI0016E
 {: #bxnui0016e}
@@ -117,181 +38,6 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 For instructions to fix this problem, see the [Why do I encounter console pages that don't load?](/docs/account?topic=account-ts_err) troubleshooting
 
 
-## BXNUI0017E
-{: #bxnui0017e}
-
-**Message**: The service instance wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0018E
-{: #bxnui0018e}
-
-**Message**: The instances for the '{0}' app weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0019E
-{: #bxnui0019e}
-
-**Message**: The instances for your app weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0020E
-{: #bxnui0020e}
-
-**Message**: The settings for the '{0}' app weren't updated because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0021E
-{: #bxnui0021e}
-
-**Message**: The environment variables for the '{0}' app weren't updated because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0022E
-{: #bxnui0022e}
-
-**Message**: The routes for the '{0}' app weren't updated because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [[{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0023E
-{: #bxnui0023e}
-
-**Message**: The settings for the '{0}' service instance weren't updated because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0024E
-{: #bxnui0024e}
-
-**Message**: The quick start for the '{0}' app wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0025E
-{: #bxnui0025e}
-
-**Message**: The quick start for the '{0}' service wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0026E
-{: #bxnui0026e}
-
-**Message**: The '{0}' space wasn't created because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0027E
-{: #bxnui0027e}
-
-**Message**: The '{0}' space wasn't deleted because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0028E
-{: #bxnui0028e}
-
-**Message**: The '{0}' organization wasn't created because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0029E
-{: #bxnui0029e}
-
-**Message**: The '{0}' organization wasn't deleted because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0030E
-{: #bxnui0030e}
-
-**Message**: The '{0}' route wasn't mapped to the '{1}' app because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0031E
-{: #bxnui0031e}
-
-**Message**: The '{0}' route wasn't unmapped from the '{1}' app because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0032E
-{: #bxnui0032e}
-
-**Message**: Information for the '{0}' organization or space wasn't saved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0033E
-{: #bxnui0033e}
-
-**Message**: The '{0}' service wasn't added to the '{1}' app because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0034E
-{: #bxnui0034e}
-
-**Message**: The '{0}' service wasn't removed from the '{1}' app because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0035E
-{: #bxnui0035e}
-
-**Message**: The '{0}' service instance wasn't deleted because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0036E
-{: #bxnui0036e}
-
-**Message**: The service bindings for the '{0}' app or service weren't deleted because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0037E
-{: #bxnui0037e}
-
-**Message**: The service instances that were bound to the '{0}' app weren't deleted because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0038E
-{: #bxnui0038e}
-
-**Message**: The routes that are associated with the '{0}' app weren't deleted because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
 
 ## BXNUI0039E
 {: #bxnui0039e}
@@ -300,119 +46,6 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 
 On the app's Overview page, click **Routes and domains** drop-down, and select **Edit routes**.
 
-
-## BXNUI0040E
-{: #bxnui0040e}
-
-**Message**: Service bindings weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0044E
-{: #bxnui0044e}
-
-**Message**: Information wasn't retrieved from the server because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0045E
-{: #bxnui0045e}
-
-**Message**: Files or logs for the '{0}' application weren't retrieved by using the '{1}' instance because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0046E
-{: #bxnui0046e}
-
-**Message**: Your organizations weren't retrieved because of a problem contacting Cloud Foundry.
-
-You are logged out of {{site.data.keyword.Bluemix_notm}}.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0048E
-{: #bxnui0048e}
-
-**Message**: Spaces for the '{0}' organization weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0049E
-{: #bxnui0049e}
-
-**Message**: The organization's domains weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0050E
-{: #bxnui0050e}
-
-**Message**: The organization's summary wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0052E
-{: #bxnui0052e}
-
-**Message**: The users for the '{0}' organization weren't updated because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0053E
-{: #bxnui0053e}
-
-**Message**: The users for the '{0}' space weren't updated because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0054E
-{: #bxnui0054e}
-
-**Message**: The user, '{0}', wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0055E
-{: #bxnui0055e}
-
-**Message**: The users for the parent organization of the '{0}' space weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0056E
-{: #bxnui0056e}
-
-**Message**: The users for the '{0}' organization weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0057E
-{: #bxnui0057e}
-
-**Message**: The users for the '{0}' space weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0058E
-{: #bxnui0058e}
-
-**Message**: A domain wasn't created because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
 
 ## BXNUI0059E
@@ -467,28 +100,12 @@ The following browsers are supported. Ensure that you use the latest version for
 For information, see [What are the IBM Cloud prerequisites?](/docs/overview?topic=overview-prereqs-platform)
 
 
-## BXNUI0065E
-{: #bxnui0065e}
-
-**Message**: The VCAP_SERVICES environment variable for '{0}' wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
 ## BXNUI0066E
 {: #bxnui0066e}
 
 **Message**: The runtime can't be deleted because when the runtime was added, a buildpack value was explicitly set for the application by using the `-b` option on the `cf` push command.
 
 Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0067E
-{: #bxnui0067e}
-
-**Message**: The data for the plans wasn't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
 
 ## BXNUI0070E
@@ -700,14 +317,6 @@ Your account is inactive because it was canceled or suspended.
 For instructions to fix this problem, see the [Account is inactive](/docs/account?topic=account-ts_accnt_inactive) troubleshooting topic.
 
 
-## BXNUI0097E
-{: #bxnui0097e}
-
-**Message**: Before you can add an app, at least one space must be associated with your organization and region.
-
-In the {{site.data.keyword.Bluemix_notm}} console, go to **Manage** &gt; **Account** &gt; **Cloud Foundry Orgs**, and click **Create**. When the space is created, try again. For more instructions to fix this problem, see [no spaces associated with my current org](/docs/account?topic=account-ts_no_space).
-
-
 ## BXNUI0098E
 {: #bxnui0098e}
 
@@ -847,14 +456,6 @@ Refresh the page later to verify that the container group is deleted.
 Refresh the page later to verify that the container is deleted.
 
 
-## BXNUI0128E
-{: #bxnui0128e}
-
-**Message**: Your organizations weren't retrieved because of a problem contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
 ## BXNUI0129E
 {: #bxnui0129e}
 
@@ -879,22 +480,6 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.B
 **Message**: Your email address wasn't registered because an error occurred during the registration process.
 
 To resolve this problem, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0132E
-{: #bxnui0132e}
-
-**Message**: The `name` information was not retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0133E
-{: #bxnui0133e}
-
-**Message**: Service bindings weren't retrieved because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
 
 ## BXNUI0200E
@@ -1213,22 +798,6 @@ Try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_no
 Try a different route.
 
 
-## BXNUI0602E
-{: #bxnui0602e}
-
-**Message**: Failed to add the {0} service to your application because a problem occurred contacting Cloud Foundry.
-
-Try again later. If you see this message again, go to the [{{site.data.keyword.Bluemix_notm}} status page](/status?selected=status){: external} to check whether a service or component has an issue. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI0700E
-{: #bxnui0700e}
-
-**Message**: The ‘{0}’ space wasn't created because a problem occurred contacting Cloud Foundry.
-
-Click **Create** to try again or cancel the action.
-
-
 ## BXNUI0701E
 {: #bxnui0701e}
 
@@ -1451,26 +1020,10 @@ Try again with a different user name.
 Log in and try again.
 
 
-## BXNUI2028E
-{: #bxnui2028e}
-
-**Message**: Cloud Foundry issued an unexpected exception with this message: "{0}"
-
-Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
 ## BXNUI2029E
 {: #bxnui2029e}
 
 **Message**: The cloud information could not be retrieved.
-
-Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI2030E
-{: #bxnui2030e}
-
-**Message**: Cloud Foundry message: "{0}"
 
 Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
@@ -1481,40 +1034,6 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter
 **Message**: The {{site.data.keyword.Bluemix_notm}} datastore component isn't available.
 
 Contact the system administrator for assistance in fixing the datastore component.
-
-
-## BXNUI2032E
-{: #bxnui2032e}
-
-**Message**: The {1} resource wasn't created.
-
-While Cloud Foundry was being contacted to create the resource, an error occurred. Cloud Foundry message: "{0}."
-
-For instructions to fix this problem, see the [Freeing up used storage](/docs/Registry?topic=Registry-registry_quota#registry_quota_freeup) troubleshooting topic.
-
-
-## BXNUI2033E
-{: #bxnui2033e}
-
- **Message**: The {1} resource wasn't modified. While Cloud Foundry was being contacted to modify the resource, an error occurred. Cloud Foundry message: "{0}."
-
-Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI2034E
-{: #bxnui2034e}
-
- **Message**: The {1} resource wasn't retrieved. While Cloud Foundry was being contacted to retrieve the resource, an error occurred. Cloud Foundry message: "{0}."
-
-Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI2035E
-{: #bxnui2035e}
-
- **Message**: The {1} resource wasn't deleted. While Cloud Foundry was being contacted to delete the resource, an error occurred. Cloud Foundry message: "{0}."
-
-Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
 
 ## BXNUI2036E
@@ -1669,14 +1188,6 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter
 **Message**: {{site.data.keyword.Bluemix_notm}} requires authorization with scope {0}.
 
 Try logging in again and providing the requested authorization.
-
-
-## BXNUI2055E
-{: #bxnui2055e}
-
-**Message**: The attempt to connect to Cloud Foundry failed because of the following exception: "{0}."
-
-If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
 
 ## BXNUI2056E
@@ -2030,14 +1541,6 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter
 Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
 
-## BXNUI2105E
-{: #bxnui2105e}
-
-**Message**: The attempt to connect to Cloud Foundry failed.
-
-If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
 ## BXNUI2108E
 {: #bxnui2108e}
 
@@ -2358,19 +1861,3 @@ Try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_no
 **Message**: A problem occurred while contacting IBM Virtual Servers.
 
 Try again later. If the problem continues, go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI3066E
-{: #bxnui3066e}
-
-**Message**: The attempt to migrate your app failed because we couldn't contact Cloud Foundry to switch your app to Diego.
-
-Try again. If you see this message again, contact [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
-
-
-## BXNUI3067E
-{: #bxnui3067e}
-
-**Message**: The attempt to roll your app back to DEA failed because we couldn't contact Cloud Foundry.
-
-Try again. If you see this message again, contact [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter){: external}.
