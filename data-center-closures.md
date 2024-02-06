@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2024
 
-lastupdated: "2024-01-31"
+lastupdated: "2024-02-06"
 
 keywords: data centers, data center support, datacenter, data center closure
 
@@ -22,7 +22,7 @@ As part of the data center modernization strategy for {{site.data.keyword.cloud}
 
 {{site.data.keyword.cloud_notm}} invests significantly in data center infrastructure. These investments include rolling out newer data centers and multizone regions (MZRs) designed to deliver a more resilient architecture with higher levels of network throughput and redundancy. For more information, see [Locations for resource deployment](/docs/overview?topic=overview-locations).
 
-Part of this modernization strategy is to consolidate select data centers. As this transition approaches, help is available to assist you in your migration to modern data centers. For more information, see [Migrating resources to a different data center](/docs/account?topic=account-migrate-data-center) or [FAQs for migrating resources to a different data center](/docs/account?topic=account-faqs-dc-closure).
+Part of this modernization strategy is to consolidate select data centers. As this transition approaches, help is available to assist you in your migration to modern data centers. For more information, see [Migrating resources to a different data center](/docs/account?topic=account-migrate-data-center) or [FAQs for migrating resources to a different data center](/docs/account?topic=account-faqs-migrating-resources).
 
 The following table shows the locations with the associated data centers that are set to close, and the recommended data centers to which you can migrate.
 
