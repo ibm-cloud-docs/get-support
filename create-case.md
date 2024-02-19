@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2024
 
-lastupdated: "2024-01-22"
+lastupdated: "2024-02-19"
 
 keywords: create case, manage case, open case, start case, ticket
 
@@ -197,7 +197,7 @@ fmt.Println(string(b))
 {: #add-resource-api}
 {: api}
 
-You can programmatically add a resource to a support case by using the API as shown in the following sample request. For more information, see the [Case Management API reference](/apidocs/case-management#casemanagement-createcase){: external}.
+You can programmatically add a resource to a support case by using the API as shown in the following sample request. For more information, see the [Case Management API reference](/apidocs/case-management#createcase){: external}.
 
 ```curl
 curl -X PUT '/case-management/v1/cases/{case_number}/resources' -H 'Authorization: TOKEN' -d '{
