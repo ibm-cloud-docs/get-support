@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2019, 2023
+  years: 2019, 2024
 
-lastupdated: "2023-06-26"
+lastupdated: "2024-03-14"
 
 keywords: notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history 
 
@@ -82,14 +82,41 @@ To view your email notification history and check the delivery status of an {{si
 ## Getting advanced notice for disruptive maintenance
 {: #disruptive-maintenance}
 
-{{site.data.keyword.Bluemix_notm}} tries to limit disruptive, required maintenance for Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) offerings. Most maintenance is done in a nondisruptive manner to avoid the impact to your business, but when disruptive maintenance is necessary, we provide as much advanced notice as possible. 
+{{site.data.keyword.Bluemix_notm}} tries to limit disruptive, required maintenance for Platform as a Service (PaaS), Infrastructure as a Service (IaaS), and Software as a Service offerings. Most maintenance is done in a nondisruptive manner to avoid the impact to your business, but when disruptive maintenance is necessary, we provide as much advanced notice as possible.
 
-For IaaS offerings, {{site.data.keyword.Bluemix_notm}} provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact. 
+### Iaas
+{: #iaas}
+
+For IaaS offerings, {{site.data.keyword.Bluemix_notm}} provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.
 
 | Possibility of impact | Definition | Advanced Notice Guidelines |
 |-----------------------|------------|----------------------------|
 | Emergency             | Customer Impacting Event (CIE) | a minimum of 24 hours |
 | High                  | Certain, likely, or has the potential to cause an extended or brief service disruption. | a minimum of 30 days |
 | Medium                | Low to moderate possibility of a brief disruption. | a minimum of 21 days |
-| Low                   | None to negligible chance of a disruption or routine change. No assumed risk or a disruption that is isolated to a single customer. | offering-specific | 
+| Low                   | None to negligible chance of a disruption or routine change. No assumed risk or a disruption that is isolated to a single customer. | offering-specific |
 {: caption="Table 2. IaaS offerings impact possibility definitions" caption-side="top"}
+
+### PaaS
+{: #paas}
+
+For PaaS offerings, IBM Cloud provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.
+
+| Possibility of impact | Definition | Advanced Notice Guidelines |
+|-----------------------|------------|----------------------------|
+| Emergency             | Customer Impacting Event (CIE) | a minimum of 24 hours |
+| Disruptive            | Certain, likely, or has the potential to cause an extended or brief service disruption. | a minimum of 7 days |
+| Nondisruptive                | None to negligible chance of a disruption or routine change. No assumed risk or a disruption that is isolated to a single customer. | None |
+{: caption="Table 3. PaaS offerings impact possibility definitions" caption-side="top"}
+
+### SaaS
+{: #saas}
+
+For SaaS offerings, IBM Cloud provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.
+
+| Possibility of impact | Definition | Advanced Notice Guidelines |
+|-----------------------|------------|----------------------------|
+| Emergency             | Customer Impacting Event (CIE) | a minimum of 24 hours |
+| Disruptive            | Certain, likely, or has the potential to cause an extended or brief service disruption. | a minimum of 7 days |
+| Nondisruptive                | None to negligible chance of a disruption or routine change. No assumed risk or a disruption that is isolated to a single customer. | None |
+{: caption="Table 4. SaaS offerings impact possibility definitions" caption-side="top"}
