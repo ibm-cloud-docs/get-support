@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2023
+  years: 2015, 2024
 
-lastupdated: "2023-11-27"
+lastupdated: "2024-03-18"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
@@ -31,7 +31,7 @@ The following table shows the support types available for Pay-As-You-Go accounts
 |             | Basic         | Advanced         | Premium         |
 |-------------|---------------|------------------|-----------------|
 | **Description** | Basic business protection that is included with your {{site.data.keyword.Bluemix_notm}} Pay-As-You-Go or Subscription account | Prioritized case handling and support experience that is aligned with your business needs for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model | Client engagement that is aligned with your business outcomes to accelerate time-to-value for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model |
-| **Availability** |  24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases  \n Phone and chat are available only for Pay-As-You-Go and Subscription accounts  | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat |
+| **Availability** |  24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases only | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat |
 | **[Case severity](/docs/get-support?topic=get-support-support-case-severity)** | Not applicable | Case severity ranking available | Case severity ranking available |
 | **Initial response time objectives** | Not applicable | Severity 1: Less than one hour  \n Severity 2: Less than two hours  \n Severity 3: Less than four hours  \n Severity 4: Less than eight hours | Severity 1: Less than 15 minutes  \n Severity 2: Less than one hour  \n Severity 3: Less than two hours  \n Severity 4: Less than four hours |
 | **Additional support**               | Not applicable | Not applicable | Technical Account Manager assigned  \n Quarterly business reviews  \n Access to experts |
