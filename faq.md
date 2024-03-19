@@ -4,7 +4,7 @@ copyright:
 
   years: 2019, 2024
 
-lastupdated: "2024-01-22"
+lastupdated: "2024-03-19"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -55,9 +55,10 @@ Go to the [Support Center](/unifiedsupport/supportcenter){: external} in the con
 From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/get-support?topic=get-support-support-plans).
 
 To contact support, you can use the following methods:
-* If you have a valid Pay-As-You-Go or Subscription account, you can click **Chat with IBM** to connect with a support engineer.
-* Pay-as-you-go or subscription accounts can also contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
-* Lite and Trial account support is limited to non-technical support issues that are related to account access and billing. Users with Lite or Trial accounts can view the [{{site.data.keyword.Bluemix_notm}} documentation](/docs/get-support?topic=get-support-using-avatar), Chat with Watson, and use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
+* If you have an Advanced or Premium plan, you can click **Chat with IBM** to connect with a support engineer.
+* Advanced or Premium plans can also contact support by phone at the phone number listed in the [Support Center](/unifiedsupport/supportcenter){: external}.
+* If you have a Basic plan, you can open a case to contact support.
+* Lite and Trial account support is limited to non-technical support issues that are related to account access and billing. Users with Lite or Trial accounts can view the [{{site.data.keyword.Bluemix_notm}} documentation](/docs/get-support?topic=get-support-using-avatar), chat with the Virtual Cloud Assistant, use the [IBM Cloud Community](https://community.ibm.com/community/user/publiccloud/home), and use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 
 
 ## How do I escalate support cases?
@@ -69,12 +70,12 @@ As an {{site.data.keyword.cloud_notm}} customer, you can escalate support cases 
 To escalate a case, complete the following steps:
 
 1. Contact {{site.data.keyword.Bluemix_notm}} Support by phone or chat:
-   * Pay-as-you-go or subscription accounts can contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
-   * Contact by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with a support agent tile.
+   * Contact by phone at the phone number listed in [Support Center](/unifiedsupport/supportcenter){: external}.
+   * Contact by chat from the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}** from the Chat with us tile.
 1. Provide your existing case number and a request to escalate the case.
 1. Provide the justification an escalation and explain the business impact of your problem or issue.
 
-If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support plan so that you can open severity 1-4 support cases. To upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
+Basic support plans can access the technical support team only through cases. If your support inquiry requires a more immediate response, consider upgrading to the premium or advanced support plan so that you can open severity 1-4 support cases. To upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
 
 
 ## How do I change my email preferences for notifications?
