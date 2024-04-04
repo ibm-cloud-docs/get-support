@@ -37,9 +37,9 @@ Review your product topics to get a quick overview of the {{site.data.keyword.Bl
 
 The following are the methods that you can find in the Contact support section if you need help:
 
-* By chat from the [Support Center](/unifiedsupport/supportcenter){: external} for Advanced or Premium support plans.
-* Advanced or Premium plans can contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
-* If you have technical questions, there's a link to the [IBM Cloud Community](https://community.ibm.com/community/user/publiccloud/home){: external} and [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
+* By chat from the [Support Center](/unifiedsupport/supportcenter){: external}.
+* Pay-as-you-go or subscription accounts can contact support by phone and can find the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
+* If you have technical questions, there's a link to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 * You can also use the [Create a case](/unifiedsupport/cases/add){: external} page to submit a case.
 
 Users in the account need assigned access to create, update, search, or view cases. For more information, see [Assigning user access for working with support center](/docs/get-support?topic=get-support-access&interface=ui).
@@ -50,7 +50,7 @@ Users in the account need assigned access to create, update, search, or view cas
 
 The Stack Overflow forum provides a wide variety of searchable answers for your {{site.data.keyword.Bluemix_notm}} questions. If you don't find an existing answer, ask a new question. Go to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} to ask technical questions about developing apps with the {{site.data.keyword.Bluemix_notm}} platform and services.
 
-{{site.data.keyword.Bluemix_notm}} development and support teams monitor Stack Overflow and follow the questions that are tagged with `ibm-cloud`. When you create a question, add the `ibm-cloud` tag to your question to ensure that it's seen by the {{site.data.keyword.Bluemix_notm}} development and support teams.
+{{site.data.keyword.Bluemix_notm}} development and support teams actively monitor Stack Overflow and follow the questions that are tagged with `ibm-cloud`. When you create a question, add the `ibm-cloud` tag to your question to ensure that it's seen by the {{site.data.keyword.Bluemix_notm}} development and support teams.
 
 
 ## Getting support for {{site.data.keyword.Bluemix_dedicated_notm}} or {{site.data.keyword.Bluemix_local_notm}}
