@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2024
+  years: 2015, 2023, 2024
 
-lastupdated: "2024-04-03"
+lastupdated: "2024-06-03"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
@@ -17,10 +17,8 @@ subcollection: get-support
 # Basic, Advanced, and Premium support plans
 {: #support-plans}
 
-You can choose a Basic, Advanced, or Premium support plan to customize your {{site.data.keyword.Bluemix}} support experience for your business needs. The level of support that you select determines the severity that you can assign to support cases and your level of access to the tools available in the Support Center.
+You can choose a Basic, Advanced, or Premium support plan to customize your {{site.data.keyword.Bluemix}} support experience for your business needs. The level of support that you select determines the severity that you can assign to support cases and your level of access to the tools available in the Support Center.  If you want to upgrade your support plan, contact an [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
 {: shortdesc}
-
-If you have free support, you're provided technical support through [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external}. Also, with a Lite account and free support, you can open cases that are related to access management, accounts, and billing and usage. If you want to upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
 
 Initial response Service Level Objectives (SLO) do not apply to any billing, invoice, or sales related inquiry or cases.
 {: important}
@@ -31,7 +29,7 @@ The following table shows the support types available for Pay-As-You-Go accounts
 |             | Basic         | Advanced         | Premium         |
 |-------------|---------------|------------------|-----------------|
 | **Description** | Basic business protection that is included with your {{site.data.keyword.Bluemix_notm}} Pay-As-You-Go or Subscription account | Prioritized case handling and support experience that is aligned with your business needs for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model | Client engagement that is aligned with your business outcomes to accelerate time-to-value for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model |
-| **Availability** |  24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases  \n Phone and chat are available only for Pay-As-You-Go and Subscription accounts  | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat |
+| **Availability** |  24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat | 24 x 7 access to the {{site.data.keyword.Bluemix_notm}} technical support team through cases, phone, and chat |
 | **[Case severity](/docs/get-support?topic=get-support-support-case-severity)** | Not applicable | Case severity ranking available | Case severity ranking available |
 | **Initial response time objectives** | Not applicable | Severity 1: Less than one hour  \n Severity 2: Less than two hours  \n Severity 3: Less than four hours  \n Severity 4: Less than eight hours | Severity 1: Less than 15 minutes  \n Severity 2: Less than one hour  \n Severity 3: Less than two hours  \n Severity 4: Less than four hours |
 | **Additional support**               | Not applicable | Not applicable | Technical Account Manager assigned  \n Quarterly business reviews  \n Access to experts |
@@ -99,6 +97,10 @@ Advanced support is for environments with a limited number of business-critical 
 
 Basic support is provided for non-production environments or workloads that don't require traditional severities and response times.
 
+## Support for Lite or Trial accounts
+{: #free-support}
+
+Users with a Lite or Trial account can create support cases but are limited to non-technical issues associated with access, billing & usage, account, and invoice or sales inquiries.  For technical help if you have free support, Lite or Trial accounts can view the IBM Cloud documentation, chat with the Virtual Cloud Assistant, or use online communities such as the IBM Cloud Community or Stack Overflow.
 
 ## Support level and enterprises
 {: #support_level_enterprise}
