@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2024
 
-lastupdated: "2024-02-23"
+lastupdated: "2024-01-29"
 
 keywords: error messages, errors, platform errors, message ID
 
@@ -1482,7 +1482,7 @@ Go to [{{site.data.keyword.Bluemix_notm}} Support](/unifiedsupport/supportcenter
 
 **Message**: The number of intermediate certificates exceeds the number allowed.
 
-For more information about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](/docs/ssl-certificates?topic=ssl-certificates-deprecation) topic.
+For more information about the number of allowed certificates and how to delete or replace them, see the [Uploading SSL certificates](/docs/cloud-foundry-public?topic=cloud-foundry-public-ssl_csr#ssl_certificate) topic.
 
 
 ## BXNUI2094E

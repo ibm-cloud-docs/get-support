@@ -1,51 +1,51 @@
 {
-    "title": "Getting support docs",
-    "lastupdated": "2024-01-22",
-    "introduction": "Use the docs and API and SDK reference to learn about support plan options, how to use the Support Center for self-guided resolutions to your issues, and how to open and manage support cases when needed.",
-    "section_devtools": {
-      "api": "/apidocs/support-center/case-management"
+  "title": "Getting support docs",
+  "lastupdated": "2024-01-22",
+  "introduction": "Use the docs and API and SDK reference to learn about support plan options, how to use the Support Center for self-guided resolutions to your issues, and how to open and manage support cases when needed.",
+  "section_devtools": {
+    "api": "/apidocs/support-center/case-management"
+  },
+  "section_recommended": [
+    {
+      "title": "Using the Support Center",
+      "description": "Discover the best way to get the support that you need by utilizing the Support Center.",
+      "href": "/docs/get-support?topic=get-support-using-avatar"
     },
-    "section_recommended": [
-      {
-        "title": "Using the Support Center",
-        "description": "Discover the best way to get the support that you need by utilizing the Support Center.",
-        "href": "/docs/get-support?topic=get-support-using-avatar"
-      },
-      {
-        "title": "Basic, Advanced, and Premium support plans",
-        "description": "IBM Cloud offers different support plans to fit your business needs.",
-        "href": "/docs/get-support?topic=get-support-support-plans"
-      },
-      {
-        "title": "Creating support cases",
-        "description": "Create a support case to have a support engineer review your issue and help you resolve the problem you're experiencing.",
-        "href": "/docs/get-support?topic=get-support-open-case"
-      }
-    ],
-    "section_learn": {
-      "developer": "https://developer.ibm.com/depmodels/cloud/",
-      "architecture": "https://www.ibm.com/architectures/hybrid",
-      "training": "https://www.ibm.com/training/cloud",
-      "community": "https://community.ibm.com/community/user/cloud/home"
+    {
+      "title": "Basic, Advanced, and Premium support plans",
+      "description": "IBM Cloud offers different support plans to fit your business needs.",
+      "href": "/docs/get-support?topic=get-support-support-plans"
     },
-    "section_updates": {
-      "view_more": "/docs/overview?topic=overview-whatsnew",
-      "tiles": [
-        {
-          "date": "10 April 2023",
-          "title": "View email notification history",
-          "description": "You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of IBM Cloud email history, which can help save you time troubleshooting any delivery issues without needing to contact IBM support."
-        },
-        {
-          "date": "22 September 2022",
-          "title": "Getting help in the console",
-          "description": "You can now find the documentation and Support Center help options from a single menu item in the IBM Cloud console menu bar. Check out the new Help option from the menu bar that now includes your links for Docs, the Support Center, a form to give us feedback, and available guided tours."
-        },
-        {
-          "date": "28 February 2022",
-          "title": "365 days of status history is now available",
-          "description": "You can now easily view events that were completed in the past year on the IBM Cloud Status page. Previously, you could view only the history of completed events from the past month."
-        }
-      ]
+    {
+      "title": "Creating support cases",
+      "description": "Create a support case to have a support engineer review your issue and help you resolve the problem you're experiencing.",
+      "href": "/docs/get-support?topic=get-support-open-case"
     }
+  ],
+  "section_learn": {
+    "developer": "https://developer.ibm.com/depmodels/cloud/",
+    "architecture": "https://www.ibm.com/architectures/hybrid",
+    "training": "https://www.ibm.com/training/cloud",
+    "community": "https://community.ibm.com/community/user/cloud/home"
+  },
+  "section_updates": {
+    "view_more": "/docs/overview?topic=overview-whatsnew",
+    "tiles": [
+      {
+        "date": "10 April 2023",
+        "title": "View email notification history",
+        "description": "You can use the Communication history page in the console to check the status of all email notifications that are sent you to verify if the emails are being delivered successfully. You can also view the last 90 days of IBM Cloud email history, which can help save you time troubleshooting any delivery issues without needing to contact IBM support."
+      },
+      {
+        "date": "22 September 2022",
+        "title": "Getting help in the console",
+        "description": "You can now find the documentation and Support Center help options from a single menu item in the IBM Cloud console menu bar. Check out the new Help option from the menu bar that now includes your links for Docs, the Support Center, a form to give us feedback, and available guided tours."
+      },
+      {
+        "date": "28 February 2022",
+        "title": "365 days of status history is now available",
+        "description": "You can now easily view events that were completed in the past year on the IBM Cloud Status page. Previously, you could view only the history of completed events from the past month."
+      }
+    ]
   }
+}
