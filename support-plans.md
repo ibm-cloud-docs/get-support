@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2023, 2024
+  years: 2015, 2024
 
-lastupdated: "2024-06-03"
+lastupdated: "2024-06-11"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
@@ -35,9 +35,6 @@ The following table shows the support types available for Pay-As-You-Go accounts
 | **Additional support**               | Not applicable | Not applicable | Technical Account Manager assigned  \n Quarterly business reviews  \n Access to experts |
 | **Pricing**  | Included with cloud entitlement | Pay-As-You-Go and Subscription: Starting at USD 200 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption | Pay-As-You-Go and Subscription: Starting at USD 10,000 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption|
 {: caption="Table 1. Support plans" caption-side="top"}
-
-
-
 
 For Enterprise Savings Plans, there is a minimum commitment for Advanced and Premium support. If you don't spend the total committed amount by the end of the commitment term, you are invoiced for the amount that you didn't consume, and any amount used over the commitment is also charged. For more information, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
 {: note}
