@@ -27,11 +27,6 @@ To view the Status page, complete the following steps:
 
 1. In the {{site.data.keyword.Bluemix_notm}} console, click the **Notifications** icon ![Notifications icon "Notifications"](../icons/Notification.svg) in the menu bar.
 1. Click **View cloud status**.
-
-1. You can view all ongoing events, including confirmed incidents and those that are under investigation, and the status of all {{site.data.keyword.Bluemix_notm}} resources. Expand a resource's row to view more details.
-   * To view more information about an incident, click each component in the table. You can check the incident's location, start time, and when it was last updated.
-   * You can report any issue that you experience. To report an impact, click the **Report impact** icon ![Report impact icon "Thunderstorm"](../icons/thunderstorm.svg).
-   * To get email updates about an event, click the Subscribe icon .
 1. From the side navigation pane, you can select to view planned maintenance, security bulletins, announcements, release notes, and history.
 
    To view planned maintenance and report outages for your account, you must be logged in to your authorized account.
