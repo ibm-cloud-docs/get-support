@@ -58,7 +58,7 @@
     "find my open cases",
     "how do i get to ticket details",
     "go to ticket",
-    "check the support case"    
+    "check the support case"
   ],
   "ts_service_broker": [
     "looks like you don't have access to create cases for this account",
@@ -88,10 +88,10 @@
     "problem to open support case",
     "issue opening support case",
     "creating a support case does not work",
-    "cannot open a support case",  
+    "cannot open a support case",
     "can't create a ticket",
     "I can not create case",
-    "how to share the case with IBMers", 
+    "how to share the case with IBMers",
     "What access do I need to create a ticket",
     "access do I need to create a support case",
     "don't have access to create a cloud case",
@@ -141,7 +141,6 @@
     "create a support case",
     "PMR support",
     "i need to open a PMR",
-    "how to open sev1 case",
     "open a case",
     "how to open a ticket",
     "where can I open a case",
@@ -161,8 +160,6 @@
     "I want to create ticket",
     "i would like to open the CASE",
     "how to create severity 1 case",
-    "create a sev 1 case",
-    "how to open sev1 case",
     "open support case",
     "need to open a case",
     "creating a new case",
