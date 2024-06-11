@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2020, 2023
+  years: 2020
 
-lastupdated: "2023-06-01"
+lastupdated: "2021-09-13"
 
 keywords: support center help, resolve issues on the support center, trouble support center, personalized help
 

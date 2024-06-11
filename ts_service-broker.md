@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2022
+  years: 2015, 2020
 
-lastupdated: "2022-12-27"
+lastupdated: "2021-09-13"
 
 keywords: help managing cases, resolve issues managing cases, trouble working with cases, support center, help support center, resolve issues support center, help getting support, help support
 

@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2015, 2024
+  years: 2015, 2023
 
-lastupdated: "2024-01-05"
+lastupdated: "2023-04-20"
 
 keywords: cloud status, view cloud status, planned maintenance, RSS feed, unfied notifications, iaas notifications, classic infrastructure notifications, incident reports, MZR, private MZR
 
@@ -17,7 +17,7 @@ subcollection: get-support
 # Viewing cloud status
 {: #viewing-cloud-status}
 
-The {{site.data.keyword.Bluemix_notm}} [Status page](/status){: external} is the central place to find details about major incidents that affect the {{site.data.keyword.Bluemix}} platform and services. Other incidents, planned maintenance, announcements, release notes, and security bulletins are posted on the Notifications page, where you can easily view them.
+The {{site.data.keyword.Bluemix_notm}} [Status page](/status){: external} is the central place to find details about major incidents that affect the {{site.data.keyword.Bluemix}} platform and services. Other incidents, planned maintenance, announcements, release notes, and security bulletins are posted on the Notifications page, where you can easily view them.
 {: shortdesc}
 
 To get notified about key events that are specifically affecting your account, go to the [Notifications page](/notifications){: external}. You can easily update your preferences by clicking **Manage email preferences**.
@@ -49,7 +49,7 @@ You can build URL search values by using query parameters from outside the conso
 ## Viewing the status of a dedicated multizone region (MZR)
 {: #view-private-mzr}
 
-As a user in an account that has access to a dedicated [MZR](#x9774820){: term}, you are able to view incidents, planned maintenance, security bulletins, and announcements that are related to the resources within that MZR in addition to the public regions on the {{site.data.keyword.cloud_notm}} Status page. Additionally, on the History page, users in the account can view past status-related items that impact the dedicated MZR.
+As a user in an account that has access to a dedicated [MZR](#x9774820){: term}, you are able to view incidents, planned maintenance, security bulletins, and announcements that are related to the resources within that MZR in addition to the public regions on the {{site.data.keyword.cloud_notm}} Status page. Also, on the History page, users in the account can view past status-related items that impact the dedicated MZR.
 
 To view the status of a dedicated MZR, complete the following steps:
 
@@ -83,6 +83,7 @@ To subscribe to the {{site.data.keyword.Bluemix_notm}} Notifications RSS feed, c
     {: pre}
 
 1. Optional: Apply notification filters and rules if your reader supports them.
+
 
 ## Checking incident reports
 {: #status-incident-report}

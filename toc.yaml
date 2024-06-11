@@ -7,14 +7,12 @@ toc:
     product-page: https://cloud.ibm.com/unifiedsupport/supportcenter
     path: get-support
     label: Getting support
-
   entries:
     - navgroup:
         id: learn
         topics:
         - using-support-center.md
         - support-plans.md
-
     - navgroup:
         id: howto
         topics:
@@ -32,7 +30,6 @@ toc:
             - status_search.md
         - report-security.md
         - include: ../billing-usage/support.md
-
     - navgroup:
         id: reference
         topics:
@@ -42,7 +39,6 @@ toc:
         - link:
             label: API reference
             href: https://{DomainName}/apidocs/support-center/case-management
-
     - navgroup:
         id: help
         topics:

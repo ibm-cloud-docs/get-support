@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2021, 2023
+  years: 2021, 2022
 
-lastupdated: "2023-01-11"
+lastupdated: "2022-10-13"
 
 keywords: access to cases, get access for cases, assign cases, assign access, access support center
 
@@ -17,17 +17,17 @@ subcollection: get-support
 # Assigning user access for working with support cases
 {: #access}
 
-By default, users in your account don't have access to create, update, search, or view cases. The account owner must provide users access by assigning an Identity and Access Management (IAM) access policy. Use the Support Center account management service to assign users access to work with support cases. 
+By default, users in your account don't have access to create, update, search, or view cases. The account owner must provide users access by assigning an Identity and Access Management (IAM) access policy. Use the Support Center account management service to assign users access to work with support cases.
 {: shortdesc}
 
-When you create a case, you can give other users full access to that case by adding their email to the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated. 
+When you create a case, you can give other users full access to that case by adding their email to the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
 
 For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/account?topic=account-migrated_permissions). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
 {: note}
 
 The following table shows the roles and actions that are required to work with cases:
 
-| Role          | Action                                                                              | 
+| Role          | Action                                                                              |
 |---------------|-------------------------------------------------------------------------------------|
 | Viewer        | View and search cases                                                               |
 | Editor        | View, search, create, and update cases                                              |
@@ -45,12 +45,12 @@ By default, users with a Support Center service role can access support cases th
 
 To streamline the access assignment process, you can take advantage of assigning a policy to users through access groups. Complete the following steps to create an access group with support center service access:
 
-1. In the {{site.data.keyword.Bluemix_notm}} console, go to **Manage** > **Access (IAM)**, select **Access groups**, and click **Create**. 
-1. Enter an access group name and description, and click **Create**. 
+1. In the {{site.data.keyword.Bluemix_notm}} console, go to **Manage** > **Access (IAM)**, select **Access groups**, and click **Create**.
+1. Enter an access group name and description, and click **Create**.
 1. Click **Actions...** > **Assign access**.
 1. Select **Support Center** from the list of services and click **Next**.
 1. Select any combination of roles to assign the wanted access and click **Review**.
-1. Click **Add**, then click **Assign** from the Access summary section.  
+1. Click **Add**, then click **Assign** from the Access summary section.
 
 
 ## Assigning access for all support cases in the account
@@ -65,8 +65,9 @@ When you give a user access, they might not have access to view all cases in an 
 1. For platform access, select **Viewer** and click **Review**.
 1. Click **Add**, then click **Assign** from the Access summary section.
 
+
 ## Adding users to your case management access group
-{: #add-user-access-group} 
+{: #add-user-access-group}
 
 You need to have an access group to add users to it. For more information about access groups, see [Setting up access groups](/docs/account?topic=account-groups). After you create the access group, complete the following steps to add users:
 
@@ -75,14 +76,14 @@ You need to have an access group to add users to it. For more information about 
 1. Select the user that you want to add and click **Add to group**.
 
 
-## Granting individual users access to cases 
+## Granting individual users access to cases
 {: #support-user-access}
 
 Using access groups to assign the support center and user management services is the most efficient way for you to assign access, but you can also assign the same permissions to individual users. To assign permissions to an individual user, use the following steps:
 
-1. In the {{site.data.keyword.Bluemix_notm}} console, go to **Manage** > **Access (IAM)**, and then select **Users**. 
-1. Select the user. 
+1. In the {{site.data.keyword.Bluemix_notm}} console, go to **Manage** > **Access (IAM)**, and then select **Users**.
+1. Select the user.
 1. Select the **Access** tab, and click **Assign access**.
 1. Select **Support Center** from the list of services and click **Next**.
 1. Select any combination of roles to assign the wanted access and click **Review**.
-1. Click **Add**, then click **Assign** from the Access summary section.  
+1. Click **Add**, then click **Assign** from the Access summary section.
