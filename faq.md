@@ -4,7 +4,7 @@ copyright:
 
   years: 2019, 2024
 
-lastupdated: "2024-06-03"
+lastupdated: "2024-06-12"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -63,7 +63,7 @@ Lite and Trial account support is limited to non-technical support issues that a
 
 As an {{site.data.keyword.cloud_notm}} customer, you can escalate support cases to surface critical issues. To escalate a case, go to the [Support Center](/unifiedsupport/supportcenter){: external} and contact IBM Cloud Support by phone or chat. Provide your existing case number, the business impact of your issue, and a request to escalate the case.
 
-If you have a Basic support plan, access to support is through cases only; you can add a comment requesting escalation within the case. If your support inquiry requires a more immediate response, consider [upgrading to a Premium or Advanced support plan](/docs/get-support?topic=get-support-get-supportfaq#support-plan). 
+If you have a Basic support plan, access to support is through cases only. If your support inquiry requires a more immediate response, consider [upgrading to a Premium or Advanced support plan](/docs/get-support?topic=get-support-get-supportfaq#support-plan).
 
 For more information, see [Escalating support cases](/docs/get-support?topic=get-support-escalation).
 
@@ -158,3 +158,9 @@ If your account is deactivated, you have 30 days to log in to the console and [c
 {: faq}
 
 Watchlists are specific to each case. You must manually add a user to each individual case. You can't configure an account to have a list of users that are added to the watchlist for all cases.
+
+## How can I chat with support?
+{: #chat-with-support}
+{: faq}
+
+You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}**. To upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
