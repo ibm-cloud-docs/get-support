@@ -163,4 +163,4 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: #chat-with-support}
 {: faq}
 
-You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}**. To upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
+You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external} and click **Chat with {{site.data.keyword.IBM_notm}}**. Or, call the number provided in the Contact Support section. To upgrade your support plan, contact a [{{site.data.keyword.Bluemix_notm}} Sales](https://www.ibm.com/cloud?contactmodule){: external} representative.
