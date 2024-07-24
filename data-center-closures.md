@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2024
 
-lastupdated: "2024-07-19"
+lastupdated: "2024-07-23"
 
 keywords: data centers, data center support, datacenter, data center closure
 
@@ -36,10 +36,10 @@ The following table describes important dates that you need to be aware of if yo
 
 | Date             | Data Center Migration Milestone |
 |------------------|---------------------------------|
-| 24 July 2024     | Official announcement for all impacted customers. |
-| 25 July 2024     | No new account provisioning in impacted data center. |
-| 4 February 2025  | No provisioning on existing accounts in impacted data center. |
-| 5 February 2025  | Network maintenance: Remaining services in DAL09 PODs 3 and 4 will experience network disruption during the network maintenance. Customers will need to contact IBM Cloud to restore service. |
-| 10 February 2025 | Final date to submit migration assistance request. |
-| 4 March 2025     | Data center consolidation date: final day to migrate data in DAL09 PODs 3 and 4 |
+| 06 August 2024   | Official announcements for all impacted customers in DAL09 - POD3 and POD4 datacenter |
+| 06 August 2024   | No new account provisioning in impacted datacenter. |
+| 14 October 2024  | Last date to provision services in impacted datacenter. |
+| 05 February 2025 | Network maintenance DAL09 - POD3 and POD4. 10:AM US Eastern Time (14:00 GMT). |
+| 10 February 2025 | Last date to submit migration assistance request. |
+| 04 March 2025    | Last date to migrate before consolidation of DAL09 - POD3 and POD4 datacenter begins. |
 {: caption="Table 2. Timeline for data center migration" caption-side="top"}
