@@ -4,7 +4,7 @@ copyright:
 
   years: 2019, 2024
 
-lastupdated: "2024-06-12"
+lastupdated: "2024-08-06"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -52,7 +52,7 @@ Go to the [Support Center](/unifiedsupport/supportcenter){: external} in the con
 {: #contactsupport}
 {: faq}
 
-From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The Contact Support section provides the options for getting in touch with a support representative: start a live chat, contact by phone, or create a support case.  The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/get-support?topic=get-support-support-plans).
+From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The Contact Support section provides the options for getting in touch with a support representative: start a live chat, contact by phone, or create a support case. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/get-support?topic=get-support-support-plans).
 
 Lite and Trial account support is limited to non-technical support issues that are related to account access and billing. Users with Lite or Trial accounts can view the [{{site.data.keyword.Bluemix_notm}} documentation](/docs/get-support?topic=get-support-using-avatar), chat with the Virtual Cloud Assistant, use the [IBM Cloud Community](https://community.ibm.com/community/user/cloud/home), and use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}.
 
@@ -117,8 +117,7 @@ Support for third-party services is provided by the service provider.
 {: #academic-ibm}
 {: faq}
 
-The [{{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads](https://www.ibm.com/academic/home){: external} is an {{site.data.keyword.IBM_notm}} corporate program that provides access to the {{site.data.keyword.cloud_notm}} Platform for faculty, students, and researchers at accredited academic institutions. Acceptance decisions, length of participation, awarding of credits, and any possible extensions are made by the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Team and not {{site.data.keyword.cloud_notm}} Support. {{site.data.keyword.cloud_notm}} Support also does not provide technical support for accounts that are part of the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Program. For more information about the program, see the [{{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads FAQ](https://www.ibm.com/academic/faqs/faqs){: external}.
-
+The [{{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads](https://www.ibm.com/academic/){: external} is an {{site.data.keyword.IBM_notm}} corporate program that provides access to the {{site.data.keyword.cloud_notm}} Platform for faculty, students, and researchers at accredited academic institutions. Acceptance decisions, length of participation, awarding of credits, and any possible extensions are made by the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Team and not {{site.data.keyword.cloud_notm}} Support. {{site.data.keyword.cloud_notm}} Support also does not provide technical support for accounts that are part of the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Program.
 
 ## How do I ensure that users in my account get updates for a support case?
 {: #watchlist}
