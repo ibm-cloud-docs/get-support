@@ -55,6 +55,7 @@ toc:
             label: Known issues
             topics:
             - data-center-closures.md
+            - managed-services-transition.md
         - link:
             label: Stack Overflow
             href: http://stackoverflow.com/questions/tagged/ibm-cloud
